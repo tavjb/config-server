@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/tavjb/config-for-config-server.git
+          uri: https://github.com/tavjb/microservices-config.git
